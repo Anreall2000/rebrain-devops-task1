@@ -15,7 +15,12 @@ Comparing with other modules
 | Not mine  | Meh                  |
 
 My module stats[^1]
+
 ![My module stat](https://en.wikipedia.org/wiki/Wikipedia:Statistics#/media/File:Mikemoral-time_stats.jpg)
+
+My module architecture 
+
+![architecture](/The-UML-diagram-of-the-Agent-Sensor-and-Actuator-hierarchies-with-implementing.png)
 
 ## Usage
 
