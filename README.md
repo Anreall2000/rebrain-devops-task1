@@ -6,16 +6,16 @@
 
 Sometimes you need to use some functionality with
 blazing speed and efficient memory managment so
-this [module] (https://docs.python.org/3/tutorial/modules.html) is for you
+this [module](https://docs.python.org/3/tutorial/modules.html) is for you
 
 Comparing with other modules
 | Modules   | How much I like them |
-|----------------------------------|
+|-----------|----------------------|
 | My module | LOVE IT              |
 | Not mine  | Meh                  |
 
 My module stats[^1]
-![My module stat] (https://en.wikipedia.org/wiki/Wikipedia:Statistics#/media/File:Mikemoral-time_stats.jpg)
+![My module stat](https://en.wikipedia.org/wiki/Wikipedia:Statistics#/media/File:Mikemoral-time_stats.jpg)
 
 ## Usage
 
@@ -41,8 +41,8 @@ Python module was inspired by
 
 ## See Also
 
-* [Python module 1] (https://docs.python.org/3/library/datetime.html)
-* [Python module 2] (https://docs.python.org/3/library/zoneinfo.html)
+* [Python module 1](https://docs.python.org/3/library/datetime.html)
+* [Python module 2](https://docs.python.org/3/library/zoneinfo.html)
 
 ## License
 
